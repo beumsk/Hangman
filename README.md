@@ -1,2 +1,11 @@
 # Hangman
 Play Hangman game as in your childhood! Find which word is to be found in the least number of trials.
+
+TODO:
+* add drawings
+* improve design
+* add basic words
+* add max number of try
+* add difficulty option
+* add themes??
+* add clues
